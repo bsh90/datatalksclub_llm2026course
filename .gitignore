@@ -1,0 +1,20 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+.python-version
+
+# Virtual environments
+.venv
+llm1/
+uv.lock
+
+# env variables
+.env
+
+# others
+.ipynb_checkpoints/
+rag_helper.py
