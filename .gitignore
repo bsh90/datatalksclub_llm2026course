@@ -10,6 +10,9 @@ wheels/
 # Virtual environments
 .venv
 llm1/
+vectorsearch/
+vectorsearch_onnx/
+vectorsearch_homework/
 uv.lock
 
 # env variables
@@ -18,3 +21,8 @@ uv.lock
 # others
 .ipynb_checkpoints/
 rag_helper.py
+models/
+faq_vectors2.db
+ingest.py
+download.py
+embedder.py
