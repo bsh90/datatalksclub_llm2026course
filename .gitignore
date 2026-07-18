@@ -1,5 +1,6 @@
 # Python-generated files
 __pycache__/
+src/llm-zoomcamp-hw5/__pycache__/
 *.py[oc]
 build/
 dist/
@@ -15,10 +16,13 @@ vectorsearch_onnx/
 vectorsearch_homework/
 evaluation/
 evaluation_homework/
+src/llm-zoomcamp-hw5/hw5/
 uv.lock
 
 # env variables
 .env
+src/monitoring/.env
+src/llm-zoomcamp-hw5/.env
 
 # others
 .ipynb_checkpoints/
